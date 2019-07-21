@@ -4,7 +4,7 @@
 
 - clone projet
 ```shell
-$ git clone github.com/telkomdev
+$ git clone https://github.com/telkomdev/KotlinKickStart.git
 ```
 
 - build and download dependencies
